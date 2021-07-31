@@ -27,10 +27,6 @@ O Bootcamp está dividido em profundos mergulhos, cada um com grandes desafios e
 
 O projeto DeuPositivo tem como objetivos de análisar os dados públicos da saúde do SUS e demonstrar que o HIV/AIDS não está associado a homossexualidade, para o desenvolvimento da análise foi desenvolvido em python e os dados são de novos diagnósticos de HIV/ADIS no Brasil desde 1980 tirado do DATASUS.
 
-### Projeto Módulo 2 : Não desenvolvido
-### Projeto Módulo 3 : Não desenvolvido
-### Projeto Módulo 4 : Não desenvolvido
-### Projeto Módulo 5 : Não desenvolvido
 ### Projeto FINAL    : Não desenvolvido
 
 # Contato
